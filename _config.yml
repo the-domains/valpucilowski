@@ -1,0 +1,28 @@
+name: valpucilowski
+favicon: null
+layout_spectrum: 0.48942233086563647
+typography_spectrum: 0.054038326255977154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.45172187429852784
+  lightness: 0.31640272168442607
+  saturation: 0.5385379167273641
+  rhythmicContrast: 0.6184521373361349
+purpose: []
